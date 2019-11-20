@@ -1,0 +1,15 @@
+{
+  "name": "diff-tables",
+  "version": "1.0.0",
+  "description": "Generates a diff insert for MySQL tables",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "mysql": "^2.17.1"
+  }
+}
